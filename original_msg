@@ -1,0 +1,260 @@
+Delivered-To: me@gmail.com
+Received: by 10.64.225.195 with SMTP id rm3csp5241042iec;
+        Mon, 26 Dec 2016 01:01:41 -0800 (PST)
+X-Received: by 10.28.21.21 with SMTP id 21mr21702079wmv.132.1482742900998;
+        Mon, 26 Dec 2016 01:01:40 -0800 (PST)
+Return-Path: <customersupport@wileyfox.com>
+Received: from out3.pod3.dub1.zdsys.com (out3.pod3.dub1.zdsys.com. [185.12.81.139])
+        by mx.google.com with ESMTPS id q141si41675271wmd.43.2016.12.26.01.01.40
+        for <me@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 26 Dec 2016 01:01:40 -0800 (PST)
+Received-SPF: pass (google.com: domain of customersupport@wileyfox.com designates 185.12.81.139 as permitted sender) client-ip=185.12.81.139;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@zendesk.com;
+       spf=pass (google.com: domain of customersupport@wileyfox.com designates 185.12.81.139 as permitted sender) smtp.mailfrom=customersupport@wileyfox.com
+Received: from zendesk.com (work6.pod3.dub1.zdsys.com [10.128.11.13])
+	by out3.pod3.dub1.zdsys.com (Postfix) with ESMTP id 216D72035368
+	for <me@gmail.com>; Mon, 26 Dec 2016 09:01:40 +0000 (UTC)
+Date: Mon, 26 Dec 2016 09:01:40 +0000
+From: "Philip Roder (Support)" <customersupport@wileyfox.com>
+Reply-To: Support <customersupport@wileyfox.com>
+To: Sergio <me@gmail.com>
+Message-ID: <176OEGYG2J_5860dc73d3410_451d3fd1ad0cd3202689cb_sprut@zendesk.com>
+In-Reply-To: <CAGH9UwWWBmpgvywTLt5QJOc7Cd693NpWwsH+8nWP5tViNM0iqg@mail.gmail.com>
+ <176OEGYG2J_58601d31bfb57_43ee3fd40e0cd31c24992a_sprut@zendesk.com>
+References: <176OEGYG2J@zendesk.com>
+ <CAGH9UwWWBmpgvywTLt5QJOc7Cd693NpWwsH+8nWP5tViNM0iqg@mail.gmail.com>
+Subject: [Wileyfox] Re: Wileyfox Swift 2 - Software Updates
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5860dc7419a9a_451d3fd1ad0cd32026919c";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+X-Mailer: Zendesk Mailer
+X-Delivery-Context: event-id-115186927765
+X-Zendesk-From-Account-Id: 7db0b74
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=zendesk.com;
+ q=dns/txt; s=zendesk1; t=1482742900;
+ bh=ZhMtkZkLl8dQepkoE0iVPSSYRXBCuGYP23uQEW5tXLM=;
+ h=date:from:reply-to:to:message-id:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding;
+ b=CWvusoxDKEyP75k/W0JTgnxirnkKcapVd43rc5yvuW2JR99sJ+6X71FtycnXeHvaijQBZIyfVE+XY/X/m/Vf2xe3OZnjPVpNkKab1vNsHFR0fWvLxlJM4Tr8GXVnYvz8M8sfW49GjgzZEV1UsRPE61ODBmNVVC8vsDpEeWTbtEc=
+X-CMAE-Score: 0
+X-CMAE-Analysis: v=2.1 cv=Q7svmNCa c=1 sm=1 tr=0
+	a=DQyH0SZ2e6QBjjqw5NyD5Q==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10
+	a=s5jvgZ67dGcA:10 a=KiCxJD0x+Pe5VASQKmYoJrcyuOo=:19 a=IkcTkHD0fZMA:10
+	a=iWU1kbXRAAAA:8 a=sAOVBDc-ANUTccn6aoYA:9 a=QEXdDO2ut3YA:10
+	a=AxTCswu-AAAA:8 a=A-Ay9Xv3AAAA:8 a=SSmOFEACAAAA:8 a=q63J60ohZxJyo0J0eIoA:9
+	a=zj07wL5KoC8lwnaA:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=p403mkujtbAA:10
+	a=P24ADewSXyRqnITveogx:22 a=grImUnVaQDeKGm2TToIA:22
+	a=e7TI1aA-UvBIeUnWv3ue:22 a=zjWhRoSqWz9hl55Hdlzg:22
+
+
+----==_mimepart_5860dc7419a9a_451d3fd1ad0cd32026919c
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+Your request (#15190) has been updated. To add additional comments, reply=
+ to this email or click the link below:
+
+
+----------------------------------------------
+
+Philip Roder, 26 Dec, 09:01 GMT
+
+Good Morning Sergio,
+
+Thank you for your Email.
+
+Our OS Strategy and Software plan moving forward will be complete soon. =
+
+We have agreed a smooth transition where we will continue deliver constan=
+t and consistent software and OS updates. =
+
+Our plan is to bring our entire Wileyfox portfolio onto Android N, the la=
+test version of Google Android=E2=80=99s OS, in a timely manner =E2=80=93=
+ while still continuing to protect the range with Google software securit=
+y updates. =
+
+We will share our full and final plan in due time.
+
+Kind regards,
+
+Philip
+
+----------------------------------------------
+
+Sergio, 25 Dec, 19:25 GMT
+
+Good afternoon and merry christmas,
+
+Cyanogen has announced in a press note (https://cyngn.com/blog/cyanogen-s=
+ervices-shutting-down) they're ending some of their current services by t=
+he end of this year, which may affect the software on our Wileyfox device=
+s. Providing this, I'm concerned if my Wileyfox Swift 2 Plus will ever ge=
+t updated or not to newer and security-patched versions of Android, from =
+now on. =
+
+
+What's the plan of Wileyfox? Will the company continue the partnership wi=
+th Cyanogen, and they'll keep providing software to Wileyfox devices? And=
+ if so, what's the expected release date of Android Nougat 7.1 (CyanogenO=
+S 14.1) to our devices?
+And, if not, how will Wileyfox supply newer versions of Android? Will you=
+ move to a cleaner, AOSP-like OS of your own?
+
+It'd be really helpful if you could also do a press note regarding this i=
+mportant issue, that concers most of your users (as seen in the forums).
+
+--------------------------------
+This email is a service from Wileyfox.
+
+
+
+
+
+
+
+
+
+[176OEG-YG2J]=
+
+----==_mimepart_5860dc7419a9a_451d3fd1ad0cd32026919c
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=3Drtl] .directional_text_wrapper { direction: rtl; unicode-b=
+idi: embed; }
+
+  </style>
+</head>
+<body  style=3D"width: 100%!important; margin: 0; padding: 0;">
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p>Your request (#15190) has been updated. To add additional comments=
+, reply to this email or click the link below:</p><p></p><div style=3D"ma=
+rgin-top: 25px" data-version=3D"2"><table width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"><tr><td width=3D"100%" style=3D"padding:=
+ 15px 0; border-top: 1px dotted #c5c5c5;">      <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D" table-layout:fixe=
+d;"><tr><td valign=3D"top" style=3D"padding: 0 15px 0 15px;width: 40px;">=
+              <img alt=3D"Philip Rod" height=3D"40" src=3D"http://www.gra=
+vatar.com/avatar/0e3be575246d4ef6e884faae3ecf4501?size=3D40&amp;default=3D=
+https%3A%2F%2Fassets.zendesk.com%2Fimages%2F2016%2Fdefault-avatar-80.png&=
+amp;r=3Dg" style=3D"height: auto; line-height: 100%; outline: none; text-=
+decoration: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; bo=
+rder-radius: 5px;" width=3D"40" /></td>                    <td width=3D"1=
+00%" style=3D"padding: 0; margin: 0;" valign=3D"top">            <p style=
+=3D"font-family: 'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verd=
+ana,Tahoma,sans-serif; font-size: 15px; line-height: 18px; margin-bottom:=
+ 0; margin-top: 0; padding: 0; color:#1b1d1e;">                          =
+                      <strong>Philip Roder</strong> <span class=3D"direct=
+ional_text_wrapper">(Wileyfox)</span>                                    =
+      </p>            <p style=3D"font-family: 'Lucida Grande','Lucida Sa=
+ns Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 13px; lin=
+e-height: 25px; margin-bottom: 15px; margin-top: 0; padding: 0; color:#bb=
+bbbb;">              26 Dec, 09:01 GMT            </p>                   =
+                 <div class=3D"zd-comment" style=3D"color: #2b2e2f; font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-s=
+erif; font-size: 14px; line-height: 22px; margin: 15px 0"><p style=3D"col=
+or: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma=
+', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 15px =
+0" dir=3D"auto">Good Morning Sergio,</p><p style=3D"color: #2b2e2f; font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-s=
+erif; font-size: 14px; line-height: 22px; margin: 15px 0" dir=3D"auto">Th=
+ank you for your Email.</p><p style=3D"color: #2b2e2f; font-family: 'Luci=
+da Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-si=
+ze: 14px; line-height: 22px; margin: 15px 0" dir=3D"auto">Our OS Strategy=
+ and Software plan moving forward will be complete soon. <br />We have ag=
+reed a smooth transition where we will continue deliver constant and cons=
+istent software and OS updates. <br />Our plan is to bring our entire Wil=
+eyfox portfolio onto Android N, the latest version of Google Android=E2=80=
+=99s OS, in a timely manner =E2=80=93 while still continuing to protect t=
+he range with Google software security updates. <br />We will share our f=
+ull and final plan in due time.</p><p style=3D"color: #2b2e2f; font-famil=
+y: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-serif;=
+ font-size: 14px; line-height: 22px; margin: 15px 0" dir=3D"auto">Kind re=
+gards,</p><p style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode',=
+ 'Lucida Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-he=
+ight: 22px; margin: 15px 0" dir=3D"auto">Philip</p></div>                =
+                  </td>        </tr></table></td>  </tr></table><p></p><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>=
+<td width=3D"100%" style=3D"padding: 15px 0; border-top: 1px dotted #c5c5=
+c5;">      <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D" table-layout:fixed;"><tr><td valign=3D"top" style=3D"p=
+adding: 0 15px 0 15px;width: 40px;">              <img alt=3D"Sergio" hei=
+ght=3D"40" src=3D"http://www.gravatar.com/avatar/7b5a30581a5f1accbeaf7307=
+81880bb2?size=3D40&amp;default=3Dhttps%3A%2F%2Fassets.zendesk.com%2Fimage=
+s%2F2016%2Fdefault-avatar-80.png&amp;r=3Dg" style=3D"height: auto; line-h=
+eight: 100%; outline: none; text-decoration: none; -webkit-border-radius:=
+ 5px; -moz-border-radius: 5px; border-radius: 5px;" width=3D"40" /></td> =
+                   <td width=3D"100%" style=3D"padding: 0; margin: 0;" va=
+lign=3D"top">            <p style=3D"font-family: 'Lucida Grande','Lucida=
+ Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 15px; =
+line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0; color:#1b=
+1d1e;">                              <strong>Sergio</strong>             =
+             </p>            <p style=3D"font-family: 'Lucida Grande','Lu=
+cida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 13=
+px; line-height: 25px; margin-bottom: 15px; margin-top: 0; padding: 0; co=
+lor:#bbbbbb;">              25 Dec, 19:25 GMT            </p>            =
+                        <div class=3D"zd-comment" style=3D"color: #2b2e2f=
+; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana,=
+ sans-serif; font-size: 14px; line-height: 22px; margin: 15px 0"><p style=
+=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', =
+'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin=
+: 15px 0" dir=3D"auto">Good afternoon and merry christmas,</p><p style=3D=
+"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Ta=
+homa', Verdana, sans-serif; font-size: 14px; line-height: 22px; margin: 1=
+5px 0" dir=3D"auto">Cyanogen has announced in a press note (<a href=3D"ht=
+tps://cyngn.com/blog/cyanogen-services-shutting-down" rel=3D"nofollow nor=
+eferrer" target=3D"_blank">https://cyngn.com/blog/cyanogen-services-shutt=
+ing-down</a>) they're ending some of their current services by the end of=
+ this year, which may affect the software on our Wileyfox devices. Provid=
+ing this, I'm concerned if my Wileyfox Swift 2 Plus will ever get updated=
+ or not to newer and security-patched versions of Android, from now on. <=
+/p><p style=3D"color: #2b2e2f; font-family: 'Lucida Sans Unicode', 'Lucid=
+a Grande', 'Tahoma', Verdana, sans-serif; font-size: 14px; line-height: 2=
+2px; margin: 15px 0" dir=3D"auto">What's the plan of Wileyfox? Will the c=
+ompany continue the partnership with Cyanogen, and they'll keep providing=
+ software to Wileyfox devices? And if so, what's the expected release dat=
+e of Android Nougat 7.1 (CyanogenOS 14.1) to our devices?<br />And, if no=
+t, how will Wileyfox supply newer versions of Android? Will you move to a=
+ cleaner, AOSP-like OS of your own?</p><p style=3D"color: #2b2e2f; font-f=
+amily: 'Lucida Sans Unicode', 'Lucida Grande', 'Tahoma', Verdana, sans-se=
+rif; font-size: 14px; line-height: 22px; margin: 15px 0" dir=3D"auto">It'=
+d be really helpful if you could also do a press note regarding this impo=
+rtant issue, that concers most of your users (as seen in the forums).</p>=
+</div>                                  </td>        </tr></table></td>  =
+</tr></table></div>
+  </div>
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color: #aaaaaa;
+    margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeee=
+ee;">
+    This email is a service from Wileyfox. Delivered by <a href=3D"https:=
+//www.zendesk.com/product/tour/?utm_campaign=3Dtext&amp;utm_content=3DWil=
+eyfox&amp;utm_medium=3Dpoweredbyzendesk&amp;utm_source=3Demail-notificati=
+on" style=3D"color: black;" target=3D"_blank">Zendesk</a>
+  </div>
+<span style=3D'color:#FFFFFF'>[176OEG-YG2J]</span></body>
+</html>
+
+----==_mimepart_5860dc7419a9a_451d3fd1ad0cd32026919c--
